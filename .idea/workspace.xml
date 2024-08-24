@@ -1,39 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7da040da-b4c7-43c4-8549-4ea1647739f8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/accounts/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/decorators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+    <list default="true" id="e5dcb793-14c8-4cd1-9c5b-534c4f5581cd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangodb" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangodb/accounts/decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/accounts/decorators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangodb/accounts/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/accounts/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangodb/accounts/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/accounts/migrations/0001_initial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangodb/accounts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/accounts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangodb/accounts/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/accounts/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangodb/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/accounts/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangodb/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/accounts/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangodb/admin/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/admin/admin.py" afterDir="false" />
@@ -43,6 +20,7 @@
       <change beforePath="$PROJECT_DIR$/djangodb/admin/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/admin/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangodb/admin/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/admin/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangodb/clients/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/clients/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangodb/clients/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/clients/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangodb/djangodb/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/djangodb/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangodb/djangodb/static/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/djangodb/static/css/about.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangodb/djangodb/static/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/djangodb/static/css/base.css" afterDir="false" />
@@ -63,276 +41,6 @@
       <change beforePath="$PROJECT_DIR$/djangodb/templates/propertys/property.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/templates/propertys/property.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangodb/templates/propertys/propertys.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/templates/propertys/propertys.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangodb/templates/propertys/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangodb/templates/propertys/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/21/IMG20230410131239_WF6VBP4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/21/IMG20230410131243_I7ZpdL1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/21/hm2_3IK7zaK.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/21/hm4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/21/hm4_ib8xaH9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/21/im1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/21/im1_9bweFO5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/21/im1_D1WbUsS.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/21/im1_eV1IrqN.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/21/im7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/21/im7_6vaQNCm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/00077198001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/00077198001_pEdHZrA.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/05f3170cb62a0a-32-apartments-spread-over-four-floors-for-sale-machakos_9S94Tlx.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/0641dd780e169e-a-fantastic-4-bedroom-for-sale-westlands-nairobi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/0641dd780e169e-a-fantastic-4-bedroom-for-sale-westlands-nairobi_mKZ6lv9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/18-768x432.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/1984494_H_23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/1984494_H_23_SCMGtpf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/2-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/270424237.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/3-bedroom-apartment-for-rent-in-westlands-u1jx5.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/3_Sunpark_residence_image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/7-airport-apartment.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/7-airport-apartment_Rj4CH3d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/8b0490800b7b7ba5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/8b0490800b7b7ba5_muzYlRl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/CASCADIA-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/IMG20230410131300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/IMG20230410131309.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/Warwick-Apartments-by-Design-Artitude-Kenya-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/c366b021_z.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/hm2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/hm4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/hm4_JKE07Hv.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/im7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/im8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/sunflower-apartment-kileleshwa-3-bedroom-for-sale-w0sm9.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/28/white-modern-house-curved-patio-archway-c0a4a3b3-aa51b24d14d0464ea15d3_QIPWkNA.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/-1-and-2-bedroom-apartment-for-rent-in-kiamumbi-mc2hw.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/-1-and-2-bedroom-apartment-for-rent-in-kiamumbi-mc2hw_8K0xo0S.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/-2-bedroom-apartment-for-sale-in-south-b-y04sq.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/-2-bedroom-apartment-for-sale-in-south-b-y04sq_K1kUL8A.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/00077198001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/05f3170cb62a0a-32-apartments-spread-over-four-floors-for-sale-machakos_i3LZRWF.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/112378509.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/18-768x432.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/18-768x432_jsMj9Es.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/2-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/3-bedroom-apartment-for-rent-in-westlands-u1jx5.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/308898434.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/308898434_27PlviD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/308898434_HiWziNG.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/308898434_JKi8Wyh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/308898434_afuC723.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/308898434_ccbJEQR.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/308898434_hJQjimp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/308898434_lLK3tOc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/308898434_pNqA0vN.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/308898434_qdG3pEU.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/330171000.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/330171000_VHx3NZU.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/330171000_bYFCI8p.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/330171000_h1lYkCl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/330171000_mACVEBw.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/330171000_nfigXSJ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/330171000_p8KXUGN.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/330171000_u0mOQ7P.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/330171000_v0LW34P.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/339245722.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/339245722_3yJ0Pos.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/339245722_9EcTLZc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/339245722_BMWb638.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/339245722_FYlwybj.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/339245722_dPJk2H6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/339245722_dSpw9wc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/339245722_utQhFb8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/339245722_wS6Z1cA.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/375578450.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/375578450_55atHid.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/375578450_6K5Vtb5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/375578450_7AtnyVR.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/375578450_Bdfnd1h.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/375578450_ELB5uhN.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/375578450_PtJpUGf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/375578450_YqwqTfD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/375578450_uPJ47de.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/375578450_w79YYLG.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/3_Sunpark_residence_image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/3_Sunpark_residence_image_GMgeBUF.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/400896862.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/47f4a2684f53ed10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/52920545_2070402453036012_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/CASCADIA-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/Cheap-apartments-for-sale-in-Kenya-1080x720.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/Cheap-apartments-for-sale-in-Kenya-1080x720_H3XE10u.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/Cheap-apartments-for-sale-in-Kenya-1080x720_vhfssaf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/IMG20230410131239.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/IMG20230410131243.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/IMG20230410131243_EKLSCMc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/IMG20230410131300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/IMG20230410131304.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/IMG20230410131306.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/IMG20230410131306_3eMIhta.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/IMG20230410131309.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/IMG20230410131311.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/IMG20230410131311_oE97Ksc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/Mocah-Court-Apartment-Thindigua.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/Myra-Residence-By-Dunhill-Serviced-Apartments-Nairobi-Exterior.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/Myra-Residence-By-Dunhill-Serviced-Apartments-Nairobi-Exterior_KrAaukB.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/Myra-Residence-By-Dunhill-Serviced-Apartments-Nairobi-Exterior_ZwbWUbv.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/Myra-Residence-By-Dunhill-Serviced-Apartments-Nairobi-Exterior_xZtfUx9.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/banner1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/banner1_4v9U26Y.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/banner1_CIEPYLd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/banner1_Klaj06o.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/banner1_LEQohOx.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/banner1_THR5y0V.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/banner1_YomztQQ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/banner1_aRpZyE4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/banner1_zRpnjJi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/c366b021_z.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/getlstd-property-photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/hm2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/hm4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/im1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/im7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/rooms-banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/rooms-banner_Smpekj5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/rooms-banner_W1IA0St.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/rooms-banner_acyYCFE.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/rooms-banner_oIxyRKj.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/29/white-modern-house-curved-patio-archway-c0a4a3b3-aa51b24d14d0464ea15d3_DepKxL3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/30/IMG20230410131300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/30/IMG20230410131306.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/30/IMG20230410131306_TY3XeSc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/30/IMG20230410131309.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/30/IMG20230410131311.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/30/hm2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/04/30/hm4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/-1-and-2-bedroom-apartment-for-rent-in-kiamumbi-mc2hw.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/-1-and-2-bedroom-apartment-for-rent-in-kiamumbi-mc2hw_d9R0mgf.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/-1-and-2-bedroom-apartment-for-rent-in-kiamumbi-mc2hw_fERQRqz.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/-1-and-2-bedroom-apartment-for-rent-in-kiamumbi-mc2hw_y9w8u7e.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/-1-and-2-bedroom-apartment-for-rent-in-kiamumbi-mc2hw_zMDudcC.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/-2-bedroom-apartment-for-sale-in-south-b-y04sq.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/05f3170cb62a0a-32-apartments-spread-over-four-floors-for-sale-machakos_zNoaQzM.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/0641dd780e169e-a-fantastic-4-bedroom-for-sale-westlands-nairobi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/132880313.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/18-768x432.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/1984494_H_23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/1984494_H_23_AIStKI2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/1984494_H_23_RzkkkWm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/20190422_095259.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/20190422_095259_vILyJVt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/202807366.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/308898434.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/308898434_4Tupbnp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/308898434_64v42mC.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/308898434_65Wzsyc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/308898434_FXhUZSW.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/308898434_I9of0K0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/308898434_O1q5YbY.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/308898434_ZrVmQXj.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/308898434_tJuU4Vg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/308898434_v7biOwb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/308898434_yuz5taF.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/330171000.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/330171000_1tzEmEk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/330171000_3LUuNPv.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/330171000_3jGeRwX.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/330171000_EW3mMX3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/330171000_G93z7UC.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/330171000_H5174qS.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/330171000_K2KXdhD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/330171000_NJbjhMv.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/330171000_efez8VQ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/330171000_o8KmsnV.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/330171000_y0qOVe6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/339245722.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/339245722_186Ovqh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/339245722_8OGgPL6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/339245722_IjOoAJn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/339245722_LapdiwZ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/339245722_NgLnPeQ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/339245722_YwuuDFJ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/339245722_foGgnwV.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/339245722_weaJNKM.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/339245722_zwO0EqC.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/375578450.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/375578450_0HzqifA.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/375578450_78G4cfZ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/375578450_8V90a6X.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/375578450_Ou2eoYw.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/375578450_S5XWy6X.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/375578450_VcGyjce.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/375578450_e5r5vuc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/375578450_hWQby7r.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/375578450_kofJLlx.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/3_Sunpark_residence_image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/400896862.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/52920545_2070402453036012_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/8b0490800b7b7ba5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/Cheap-apartments-for-sale-in-Kenya-1080x720.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/Cheap-apartments-for-sale-in-Kenya-1080x720_3nNZ7Fc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/Cheap-apartments-for-sale-in-Kenya-1080x720_5zm8xRS.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/Cheap-apartments-for-sale-in-Kenya-1080x720_MBrhfdb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/Cheap-apartments-for-sale-in-Kenya-1080x720_nLw8iR9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/Cheap-apartments-for-sale-in-Kenya-1080x720_t45TJho.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/banner1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/banner1_6IeIJ7G.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/banner1_UBp0H5G.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/banner1_Zsp5MHk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/banner1_ajmPXPo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/rooms-banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/rooms-banner_9bL2IsB.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/01/rooms-banner_bBXtvrW.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/02/-1-and-2-bedroom-apartment-for-rent-in-kiamumbi-mc2hw.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/02/00077198001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/02/188488768.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/02/308898434.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/02/339245722.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/02/400896862.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/photos/2023/05/02/Acacia-Furnished-Apartments-Nanyuki-Exterior.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/choice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/report_admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/property/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/real" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/accounts/customerreg.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/accounts/dashboard.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/accounts/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/accounts/logout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/accounts/ownerreg.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/accounts/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/accounts/type.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/partials/alerts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/partials/navbar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/propertys/property.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/propertys/propertys.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/propertys/search.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/views.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -342,14 +50,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="2foEfQ0fCPmkLq2qVwgJWn1Duoh" />
+  <component name="ProjectId" id="2iy3cD5hR7JAwWsWopjsngyRrlF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -358,7 +63,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -373,13 +78,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7da040da-b4c7-43c4-8549-4ea1647739f8" name="Changes" comment="" />
-      <created>1714459134906</created>
+      <changelist id="e5dcb793-14c8-4cd1-9c5b-534c4f5581cd" name="Changes" comment="" />
+      <created>1720449068140</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1714459134906</updated>
-      <workItem from="1714459139774" duration="40000" />
+      <updated>1720449068140</updated>
+      <workItem from="1720449071562" duration="10000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
